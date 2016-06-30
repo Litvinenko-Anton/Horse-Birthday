@@ -73,7 +73,7 @@ public class Main {
             add(xg, yg, 0, false);
             while (qb < qe) stepAll(false);
 
-            //поиск точки пересичения
+            //поиск точки пересечения
             int h = find();
 
             //формирование ответа
