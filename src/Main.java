@@ -210,8 +210,8 @@ public class Main {
 
     //конвертирует int в arrInt
     static int convertY(int y_int) {
-        int x = y_int - 1;
-        return x;
+        int y = y_int - 1;
+        return y;
     }
 
 }
